@@ -1,0 +1,46 @@
+body {
+    margin: 100;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 30;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section.hero {
+    background-image: url('Ice\ cream.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    padding: 100px;
+  }
+  
+  section.content {
+    padding: 50px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
